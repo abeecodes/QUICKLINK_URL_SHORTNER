@@ -20,5 +20,5 @@ A console-based URL shortening system built using Java.
 ## Run
 
 ```bash
-javac -encoding UTF-8 src/*.java
-java -cp src Main
+javac -encoding UTF-8 src\quicklink\*.java
+java -cp src quicklink.Main
